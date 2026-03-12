@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # SNOW Quick Ticket — Chrome Extension
 ### Project Specification v1.0 · March 2026
 

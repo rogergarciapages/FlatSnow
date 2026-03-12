@@ -1,0 +1,114 @@
+<!-- Template Manager Component -->
+<section id="tab-templates" class="tab-pane">
+    <div class="pane-header">
+        <h2>Managed Templates</h2>
+        <div class="header-actions">
+            <button id="btn-import-tpl" class="text-btn">Import</button>
+            <button id="btn-new-template" class="action-btn">+ New Template</button>
+        </div>
+        <input type="file" id="tpl-import-file" style="display: none;" accept=".json">
+    </div>
+    <div id="templates-list" class="templates-list">
+        <!-- Template cards injected here -->
+        <div class="empty-state">No templates saved yet.</div>
+    </div>
+</section>
+
+<!-- Create/Edit Template Tab -->
+<section id="tab-create-template" class="tab-pane">
+    <div class="pane-header">
+        <h2 id="template-editor-title">Create New Template</h2>
+        <button id="btn-cancel-template" class="text-btn">Back to List</button>
+    </div>
+
+    <form id="template-editor-form">
+        <input type="hidden" id="tpl_id" name="tpl_id">
+        <div class="form-group">
+            <label for="tpl_name">Template Name <span class="required">*</span></label>
+            <input type="text" id="tpl_name" name="tpl_name" placeholder="e.g. Printer Issue" required>
+        </div>
+
+        <div class="form-section-title">Pre-filled Data</div>
+
+        <div class="form-group">
+            <label for="tpl_contact_method">Contact Source</label>
+            <select id="tpl_contact_method" name="contact_method">
+                <option value="">---</option>
+                <option value="phone">Phone</option>
+                <option value="self">Self</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="tpl_short_description">Short Description</label>
+            <input type="text" id="tpl_short_description" name="short_description" placeholder="Brief headline">
+        </div>
+
+        <div class="form-row">
+            <div class="form-group half">
+                <label for="tpl_category">Category</label>
+                <select id="tpl_category" name="category">
+                    <option value="">---</option>
+                </select>
+            </div>
+            <div class="form-group half">
+                <label for="tpl_subcategory_l1">Sub-Category L1</label>
+                <select id="tpl_subcategory_l1" name="subcategory_l1">
+                    <option value="">---</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group half">
+                <label for="tpl_subcategory_l2">Sub-Category L2</label>
+                <select id="tpl_subcategory_l2" name="subcategory_l2">
+                    <option value="">---</option>
+                </select>
+            </div>
+            <div class="form-group half">
+                <label for="tpl_cmdb_ci">Affected CI</label>
+                <input type="text" id="tpl_cmdb_ci" name="cmdb_ci" placeholder="Auto-populated" readonly
+                    style="background: #f1f5f9;">
+            </div>
+        </div>
+
+        <div class="form-section-title">Issue Details (Template)</div>
+        <div class="form-group">
+            <label for="tpl_incident_desc">Description</label>
+            <textarea id="tpl_incident_desc" name="incident_desc"
+                placeholder="Standard technical details..."></textarea>
+        </div>
+
+        <div class="form-group">
+            <label for="tpl_trouble_steps">Worknotes</label>
+            <textarea id="tpl_trouble_steps" name="trouble_steps" placeholder="Standard internal notes..."></textarea>
+        </div>
+
+        <div class="form-group">
+            <label for="tpl_impact">Impact</label>
+            <select id="tpl_impact" name="impact">
+                <option value="">---</option>
+                <option value="1">1-Enterprise</option>
+                <option value="2">2-Dept</option>
+                <option value="3">3-Individual</option>
+                <option value="4">4-Low</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="tpl_urgency">Urgency</label>
+            <select id="tpl_urgency" name="urgency">
+                <option value="">---</option>
+                <option value="1">1-Critical</option>
+                <option value="2">2-High</option>
+                <option value="3">3-Medium</option>
+                <option value="4">4-Low</option>
+            </select>
+        </div>
+
+        <div style="margin-top: 20px;">
+            <button type="submit" id="btn-save-template" class="primary-btn" style="width: 100%;">Save
+                Template</button>
+        </div>
+    </form>
+</section>

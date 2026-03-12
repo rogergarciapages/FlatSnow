@@ -1,0 +1,163 @@
+<!-- New Ticket Component -->
+<section id="tab-new-ticket" class="tab-pane active">
+    <div class="template-selector-bar">
+        <select id="template-select">
+            <option value="">Select a template...</option>
+            <!-- Templates populated here -->
+        </select>
+    </div>
+
+    <form id="ticket-form">
+        <input type="hidden" name="company" value="McDonalds Belgium">
+        <!-- 1. Restaurant (Searchable) -->
+        <div class="form-group autocomplete-group">
+            <label for="restaurant_search">Restaurant <span class="required">*</span></label>
+            <div class="search-input-wrapper">
+                <input type="text" id="restaurant_search" placeholder="Type name or number (e.g. 87)" autocomplete="off"
+                    required>
+                <input type="hidden" id="u_restaurant" name="u_restaurant">
+                <div id="restaurant_results" class="autocomplete-results"></div>
+            </div>
+        </div>
+
+        <!-- 2. Self or Phone dropdown -->
+        <div class="form-group">
+            <label for="contact_method">Contact Source</label>
+            <select id="contact_method" name="contact_method" class="desc-trigger">
+                <option value="phone">Phone</option>
+                <option value="self">Self</option>
+            </select>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group half">
+                <label for="contact_name">Reporter Name</label>
+                <input type="text" id="contact_name" name="contact_name" class="desc-trigger" placeholder="Nom">
+            </div>
+            <div class="form-group half">
+                <label for="contact_phone">Telephone</label>
+                <input type="text" id="contact_phone" name="contact_phone" class="desc-trigger" placeholder="+32...">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="rest_explanation">Restaurant Reports that...</label>
+            <textarea id="rest_explanation" name="rest_explanation" class="desc-trigger"
+                placeholder="What the client explained..."></textarea>
+        </div>
+
+        <!-- 3. Short Description -->
+        <div class="form-group">
+            <label for="short_description">Short Description <span class="required">*</span></label>
+            <input type="text" id="short_description" name="short_description" class="desc-trigger"
+                placeholder="Brief headline of the issue" required maxlength="160">
+        </div>
+
+        <div class="form-group" style="display: none;">
+            <label for="description">Description (Hidden Sync)</label>
+            <textarea id="description" name="description"></textarea>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group half">
+                <label for="category">Category</label>
+                <select id="category" name="category" class="desc-trigger">
+                    <option value="">---</option>
+                </select>
+            </div>
+            <div class="form-group half">
+                <label for="subcategory_l1">Sub-Category L1</label>
+                <select id="subcategory_l1" name="subcategory_l1" class="desc-trigger">
+                    <option value="">---</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group half">
+                <label for="subcategory_l2">Sub-Category L2</label>
+                <select id="subcategory_l2" name="subcategory_l2" class="desc-trigger">
+                    <option value="">---</option>
+                </select>
+            </div>
+            <div class="form-group half">
+                <label for="cmdb_ci">Affected CI</label>
+                <input type="text" id="cmdb_ci" name="cmdb_ci" placeholder="Auto-populated" readonly
+                    style="background: #f1f5f9;">
+            </div>
+        </div>
+
+        <div class="form-section-title">Issue Details</div>
+        <div class="form-group">
+            <label for="incident_desc">Description</label>
+            <textarea id="incident_desc" name="incident_desc" class="desc-trigger"
+                placeholder="Détails techniques..."></textarea>
+        </div>
+
+        <div class="form-group">
+            <label for="trouble_steps">Worknotes</label>
+            <textarea id="trouble_steps" name="trouble_steps" class="desc-trigger"
+                placeholder="Internal notes or actions taken..."></textarea>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group half">
+                <label for="affected_device">Affected Device</label>
+                <input type="text" id="affected_device" name="affected_device" class="desc-trigger"
+                    placeholder="Nom/N°">
+            </div>
+            <div class="form-group half">
+                <label for="extra_info">More Info</label>
+                <input type="text" id="extra_info" name="extra_info" class="desc-trigger" placeholder="Détails...">
+            </div>
+        </div>
+
+        <div class="form-section-title">SNOW Settings</div>
+        <div class="form-row">
+            <div class="form-group half">
+                <label for="impact">Impact</label>
+                <select id="impact" name="impact">
+                    <option value="1">1-Enterprise</option>
+                    <option value="2">2-Dept</option>
+                    <option value="3" selected>3-Individual</option>
+                    <option value="4">4-Low</option>
+                </select>
+            </div>
+            <div class="form-group half">
+                <label for="urgency">Urgency</label>
+                <select id="urgency" name="urgency">
+                    <option value="1">1-Critical</option>
+                    <option value="2">2-High</option>
+                    <option value="3" selected>3-Medium</option>
+                    <option value="4">4-Low</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="caller_id">Caller ID <span class="required">*</span></label>
+            <input type="text" id="caller_id" name="caller_id" placeholder="sys_id / user">
+        </div>
+
+        <div class="form-row">
+            <div class="form-group half">
+                <label for="assignment_group">Assignment Group</label>
+                <input type="text" id="assignment_group" name="assignment_group" value="BE.ServiceDesk.MCDBE.1LS"
+                    readonly style="background: #f1f5f9;">
+            </div>
+            <div class="form-group half">
+                <label for="assigned_to">Assigned To</label>
+                <input type="text" id="assigned_to" name="assigned_to" value="Roger Garcia" readonly
+                    style="background: #f1f5f9;">
+            </div>
+        </div>
+    </form>
+
+    <div class="preview-area">
+        <div class="preview-header">
+            <span>JSON Preview</span>
+            <button id="btn-copy-json" class="text-btn">Copy JSON</button>
+        </div>
+        <pre id="json-preview">{}</pre>
+    </div>
+</section>

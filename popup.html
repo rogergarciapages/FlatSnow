@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SNOW Quick Ticket</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+    <div class="popup-container">
+        <header class="header">
+            <div class="logo-area">
+                <img src="assets/images/icon48.png" alt="Logo" class="logo">
+                <div class="title-wrap">
+                    <h1>SNOW Quick Ticket</h1>
+                    <span class="version">v1.0 (MVP)</span>
+                </div>
+            </div>
+            <button id="btn-options" class="icon-btn" title="Settings">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <path
+                        d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.1a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z">
+                    </path>
+                    <circle cx="12" cy="12" r="3"></circle>
+                </svg>
+            </button>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-btn active" data-tab="new-ticket">New Ticket</button>
+            <button class="tab-btn" data-tab="templates">Templates</button>
+            <button class="tab-btn" data-tab="history">History</button>
+            <!-- Hidden tab for template creation/editing -->
+            <button class="tab-btn" data-tab="create-template" style="display: none;">Create Template</button>
+        </nav>
+
+        <main class="content" id="main-content">
+            <!-- Components will be loaded here -->
+            <div id="comp-new-ticket"></div>
+            <div id="comp-templates"></div>
+        </main>
+
+        <footer class="footer">
+            <button id="btn-clear-form" class="secondary-btn">Clear All</button>
+            <button id="btn-apply" class="secondary-btn" title="Inject data into current SNOW page">Apply to
+                Page</button>
+            <button id="btn-submit" class="primary-btn">Submit to SNOW</button>
+        </footer>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast"></div>
+
+    <script src="storage.js"></script>
+    <script src="js/functions/utils.js"></script>
+    <script src="js/functions/categories.js"></script>
+    <script src="js/functions/restaurants.js"></script>
+    <script src="js/functions/templates.js"></script>
+    <script src="js/functions/history.js"></script>
+    <script src="popup.js"></script>
+    <!-- Variable Autocomplete Dropdown -->
+    <div id="variable-dropdown" class="variable-dropdown" style="display: none;"></div>
+</body>
+
+</html>

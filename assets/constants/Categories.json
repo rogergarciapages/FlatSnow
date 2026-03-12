@@ -1,0 +1,2102 @@
+[
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "BOS PC",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-OS"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "BOS PC",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "BOS PC",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-BOS"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "BOS PC",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-BOS"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Access",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Crew login on POS",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Report-Drawers",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Report-Bank deposit",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Report-Hourly sales",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Report-Speed of service",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Report-Operations",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Report-Shift performance",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Report-Inventory",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Report-Others",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Open Close- Export files",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Open Close- SDM",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Open Close-Inventory",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Open Close-Incomplete",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Application",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Missing data",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Import",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Export",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "SDM",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "inventory",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Slow",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "MyStore",
+    "Sub-Category L2": "Error",
+    "Affected CI": "MCDBE.GenericCI-MyStore"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "HAVI",
+    "Sub-Category L2": "Delivery imports",
+    "Affected CI": "MCDBE.GenericCI-HAVI"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "HAVI",
+    "Sub-Category L2": "Missing data",
+    "Affected CI": "MCDBE.GenericCI-HAVI"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "HAVI",
+    "Sub-Category L2": "CFM import",
+    "Affected CI": "MCDBE.GenericCI-HAVI"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "HAVI",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-HAVI"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-HAVI"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Office-Printer"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Office-Printer"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Office-Printer"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "Bef root / EJ",
+    "Sub-Category L2": "Reports",
+    "Affected CI": "MCDBE.GenericCI-BOS"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "Bef root / EJ",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-BOS"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "Bef root / EJ",
+    "Sub-Category L2": "Missing data",
+    "Affected CI": "MCDBE.GenericCI-BOS"
+  },
+  {
+    "Category": "BOS",
+    "Sub-Category L1": "Bef root / EJ",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-BOS"
+  },
+  {
+    "Category": "CLS",
+    "Sub-Category L1": "Table Tent",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-Table Service Server"
+  },
+  {
+    "Category": "CLS",
+    "Sub-Category L1": "Table Tent",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-OS"
+  },
+  {
+    "Category": "CLS",
+    "Sub-Category L1": "Table Tent",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "CLS",
+    "Sub-Category L1": "Table Tent",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Table Service Server"
+  },
+  {
+    "Category": "CLS",
+    "Sub-Category L1": "Table Tent",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-Table Service Server"
+  },
+  {
+    "Category": "CLS",
+    "Sub-Category L1": "Table Tent",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Table Service Server"
+  },
+  {
+    "Category": "Delivery Orders",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Delivery Orders",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Menu item",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Delivery Orders",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Opening Hours",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Delivery Orders",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Order recall",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "IDMB",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "IDMB",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-IDMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "IDMB",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-IDMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "IDMB",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-IDMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "IDMB",
+    "Sub-Category L2": "incorrect display",
+    "Affected CI": "MCDBE.GenericCI-IDMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "IDMB",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-IDMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "ODMB",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "ODMB",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-ODMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "ODMB",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-ODMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "ODMB",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-ODMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "ODMB",
+    "Sub-Category L2": "incorrect display",
+    "Affected CI": "MCDBE.GenericCI-ODMB-Visualart"
+  },
+  {
+    "Category": "Digital Menu Board",
+    "Sub-Category L1": "ODMB",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-ODMB-Visualart"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "HME",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-HMEStation"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "HME",
+    "Sub-Category L2": "station",
+    "Affected CI": "MCDBE.GenericCI-HMEStation"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "HME",
+    "Sub-Category L2": "Headsets Battery",
+    "Affected CI": "MCDBE.GenericCI-HMEStation-Headsets"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "HME",
+    "Sub-Category L2": "Headsets",
+    "Affected CI": "MCDBE.GenericCI-HMEStation-Headsets"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "HME",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-HMEStation-Headsets"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD-Camera",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-DriveThruCamera"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD-Camera",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD-Camera",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-DriveThruCamera"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD-Camera",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-DriveThruCamera"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD-Audio device",
+    "Sub-Category L2": "Audio device",
+    "Affected CI": "MCDBE.GenericCI-DriveThruAudio"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD-Audio device",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD-Audio device",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-DriveThruAudio"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD-Audio device",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-DriveThruAudio"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-DriveThruCOD"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-DriveThruCOD"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-DriveThruCOD"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "COD",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-DriveThruCOD"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-DriveThruScanner"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-DriveThruScanner"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-DriveThruScanner"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "Drive Dashboard",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-DriveDashboard"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "Drive Dashboard",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-DriveDashboard"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "Drive Dashboard",
+    "Sub-Category L2": "incorrect display",
+    "Affected CI": "MCDBE.GenericCI-DriveDashboard"
+  },
+  {
+    "Category": "Drive-Thru",
+    "Sub-Category L1": "Drive Dashboard",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Fries",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Fries",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Fries",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Fries",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Fries",
+    "Sub-Category L2": "incorrect display",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Look and cook",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Look and cook",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Look and cook",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Look and cook",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Look and cook",
+    "Sub-Category L2": "incorrect display",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "Look and cook",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "UHC",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "UHC",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "UHC",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "UHC",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "UHC",
+    "Sub-Category L2": "incorrect display",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "eProd",
+    "Sub-Category L1": "UHC",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-eProd"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-Kiosk"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-Kiosk"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Kiosk"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Kiosk"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "screen",
+    "Affected CI": "MCDBE.GenericCI-Kiosk"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-KioskScanner"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-KioskScanner"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-KioskScanner"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Bancontact - Yomani",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Yomani"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Bancontact - Yomani",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Yomani"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Bancontact - Yomani",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Yomani"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-POS offline",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-POS wrong BD",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-Incomplete",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-POS in use",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Menu item",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Slow",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Communication Failure",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "SmartUpdate",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Error on screen",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Ordering",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "missing images",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Adminlogon",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Offers, Promotions, Campaigns",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "Kiosk",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ThinClient",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Thin Client"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ThinClient",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ThinClient",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Thin Client"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ThinClient",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-Thin Client"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ThinClient",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-Thin Client"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Screen",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-KVS Screen"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Screen",
+    "Sub-Category L2": "Adminlogon",
+    "Affected CI": "MCDBE.GenericCI-KVS Screen"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Screen",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-KVS Screen"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Screen",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-KVS Screen"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Screen",
+    "Sub-Category L2": "incorrect display",
+    "Affected CI": "MCDBE.GenericCI-KVS Screen"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Screen",
+    "Sub-Category L2": "Slow",
+    "Affected CI": "MCDBE.GenericCI-KVS Screen"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Screen",
+    "Sub-Category L2": "missing orders",
+    "Affected CI": "MCDBE.GenericCI-KVS Screen"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Bumpbar",
+    "Sub-Category L2": "failure",
+    "Affected CI": "MCDBE.GenericCI-Bumpbar"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Bumpbar",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Bumpbar",
+    "Sub-Category L2": "Battery-wireless Bumpbar",
+    "Affected CI": "MCDBE.GenericCI-Bumpbar"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Bumpbar",
+    "Sub-Category L2": "Receiver-wireless Bumpbar",
+    "Affected CI": "MCDBE.GenericCI-Bumpbar"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Bumpbar",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Bumpbar"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Bumpbar",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Bumpbar"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ORB",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-ORB"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ORB",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-ORB"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ORB",
+    "Sub-Category L2": "Adminlogon",
+    "Affected CI": "MCDBE.GenericCI-ORB"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ORB",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ORB",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-ORB"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ORB",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-ORB"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ORB",
+    "Sub-Category L2": "incorrect display",
+    "Affected CI": "MCDBE.GenericCI-ORB"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-GrillPrinter"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-GrillPrinter"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-GrillPrinter"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-GrillPrinter"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-GrillPrinter"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ABS",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-ABS"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ABS",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ABS",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-ABS"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ABS",
+    "Sub-Category L2": "Error",
+    "Affected CI": "MCDBE.GenericCI-ABS"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ABS",
+    "Sub-Category L2": "Dispensing",
+    "Affected CI": "MCDBE.GenericCI-ABS"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ABS",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-ABS"
+  },
+  {
+    "Category": "KVS",
+    "Sub-Category L1": "ABS",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-ABS"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "Strobbo",
+    "Sub-Category L2": "Application",
+    "Affected CI": "MCDBE.GenericCI-Strobbo"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "Strobbo",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Strobbo"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "MAP PC",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-OS"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "MAP PC",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "MAP PC",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-MAP"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "MAP PC",
+    "Sub-Category L2": "MS Office",
+    "Affected CI": "MCDBE.GenericCI-MS Office"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "MAP PC",
+    "Sub-Category L2": "email",
+    "Affected CI": "MCDBE.GenericCI-MS Office"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "MAP PC",
+    "Sub-Category L2": "email password",
+    "Affected CI": "MCDBE.GenericCI-MS Office"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "MAP PC",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-MAP"
+  },
+  {
+    "Category": "MAP",
+    "Sub-Category L1": "MAP PC",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-MAP"
+  },
+  {
+    "Category": "Mobile App",
+    "Sub-Category L1": "POS",
+    "Sub-Category L2": "scan not working",
+    "Affected CI": "MCDBE.GenericCI-GMALite"
+  },
+  {
+    "Category": "Mobile App",
+    "Sub-Category L1": "POS",
+    "Sub-Category L2": "invalid promotion",
+    "Affected CI": "MCDBE.GenericCI-GMALite"
+  },
+  {
+    "Category": "Mobile App",
+    "Sub-Category L1": "Drive Thru",
+    "Sub-Category L2": "scan not working",
+    "Affected CI": "MCDBE.GenericCI-GMALite"
+  },
+  {
+    "Category": "Mobile App",
+    "Sub-Category L1": "Drive Thru",
+    "Sub-Category L2": "invalid promotion",
+    "Affected CI": "MCDBE.GenericCI-GMALite"
+  },
+  {
+    "Category": "Mobile App",
+    "Sub-Category L1": "Kiosk",
+    "Sub-Category L2": "scan not working",
+    "Affected CI": "MCDBE.GenericCI-GMALite"
+  },
+  {
+    "Category": "Mobile App",
+    "Sub-Category L1": "Kiosk",
+    "Sub-Category L2": "invalid promotion",
+    "Affected CI": "MCDBE.GenericCI-GMALite"
+  },
+  {
+    "Category": "Monitoring",
+    "Sub-Category L1": "Splashtop",
+    "Sub-Category L2": "Access",
+    "Affected CI": "MCDBE.GenericCI-ODMB-Splashtop"
+  },
+  {
+    "Category": "Monitoring",
+    "Sub-Category L1": "Splashtop",
+    "Sub-Category L2": "Error",
+    "Affected CI": "MCDBE.GenericCI-ODMB-Splashtop"
+  },
+  {
+    "Category": "Monitoring",
+    "Sub-Category L1": "Splashtop",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring",
+    "Sub-Category L1": "Splashtop",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-ODMB-Splashtop"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "RTR01",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "RTR02",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "SWH01",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "SWH02",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "SWH04",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "SWH03",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "WAP01",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "WAP02",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "WAP03",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "WAP04",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring Meraki",
+    "Sub-Category L1": "TSS",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "CPU Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Memory Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Disk Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Network",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Host not responding",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "CPU Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Memory Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Disk Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Network",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Host not responding",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "CPU Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Memory Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Disk Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Network",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Host not responding",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "POS",
+    "Sub-Category L2": "CPU Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "POS",
+    "Sub-Category L2": "Memory Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "POS",
+    "Sub-Category L2": "Disk Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "POS",
+    "Sub-Category L2": "Host not responding",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "POS",
+    "Sub-Category L2": "Network",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "Kiosk",
+    "Sub-Category L2": "CPU Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "Kiosk",
+    "Sub-Category L2": "Memory Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "Kiosk",
+    "Sub-Category L2": "Disk Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "Kiosk",
+    "Sub-Category L2": "Host not responding",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "Kiosk",
+    "Sub-Category L2": "Network",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "CPU Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Memory Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Disk Usage",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Host not responding",
+    "Affected CI": "MCDBE.GenericCI-Performance"
+  },
+  {
+    "Category": "Monitoring NewRelic",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Network",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Network",
+    "Sub-Category L1": "Destiny",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Network",
+    "Sub-Category L1": "Destiny",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Network",
+    "Sub-Category L1": "Destiny",
+    "Sub-Category L2": "Main line",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Network",
+    "Sub-Category L1": "Destiny",
+    "Sub-Category L2": "Backup line",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Network",
+    "Sub-Category L1": "GuestWifi",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-POS"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-OS"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-POS"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-POS"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-POS"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Hardware",
+    "Sub-Category L2": "Peripharials",
+    "Affected CI": "MCDBE.GenericCI-POS"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Cash drawer",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-CashDrawer"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Cash drawer",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Cash drawer",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-CashDrawer"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Cash drawer",
+    "Sub-Category L2": "Inserts",
+    "Affected CI": "MCDBE.GenericCI-CashDrawer"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Cash drawer",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-CashDrawer"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Scanners"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Scanners"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Scanner",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Scanners"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Bancontact",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Bancontact",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Yomani"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Bancontact",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Yomani"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Bancontact",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Yomani"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Bancontact",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Valina"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Bancontact",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Valina"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Bancontact",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Valina"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "FDM",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "FDM",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-FDM"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "FDM",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-FDM"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "FDM",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-FDM"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "FDM",
+    "Sub-Category L2": "others",
+    "Affected CI": "MCDBE.GenericCI-FDM"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Configuration-Card to code",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-POS offline",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-POS wrong BD",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-POS in use",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-Incomplete",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Menu item",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Communication Failure",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "SmartUpdate",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Ordering",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Adminlogon",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Not responding",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Slow",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Offers, Promotions, Campaigns",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "POS",
+    "Sub-Category L1": "Printer",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-ReceiptPrinter"
+  },
+  {
+    "Category": "Power",
+    "Sub-Category L1": "store wide",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Electricity"
+  },
+  {
+    "Category": "Power",
+    "Sub-Category L1": "Kitchen",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Electricity"
+  },
+  {
+    "Category": "Power",
+    "Sub-Category L1": "Lobby",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Electricity"
+  },
+  {
+    "Category": "Power",
+    "Sub-Category L1": "Patchcloset",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Electricity"
+  },
+  {
+    "Category": "Power",
+    "Sub-Category L1": "Patchcloset",
+    "Sub-Category L2": "UPS",
+    "Affected CI": "MCDBE.GenericCI-UPS-ATS"
+  },
+  {
+    "Category": "Power",
+    "Sub-Category L1": "Patchcloset",
+    "Sub-Category L2": "ATS",
+    "Affected CI": "MCDBE.GenericCI-UPS-ATS"
+  },
+  {
+    "Category": "Power",
+    "Sub-Category L1": "backoffice",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Electricity"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS01",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "RHS02",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "Radius",
+    "Sub-Category L2": "Power",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "Radius",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "Radius",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "Radius",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "Radius",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "Radius",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "Radius",
+    "Sub-Category L2": "Host not responding",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "Server",
+    "Sub-Category L1": "Radius",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Servers"
+  },
+  {
+    "Category": "ServiceNow",
+    "Sub-Category L1": "Ticketing",
+    "Sub-Category L2": "Access",
+    "Affected CI": "MCDBE.GenericCI-ServiceNow"
+  },
+  {
+    "Category": "ServiceNow",
+    "Sub-Category L1": "Ticketing",
+    "Sub-Category L2": "Add/remove",
+    "Affected CI": "MCDBE.GenericCI-ServiceNow"
+  },
+  {
+    "Category": "Table service",
+    "Sub-Category L1": "Table Tent, Pucks",
+    "Sub-Category L2": "Battery",
+    "Affected CI": "MCDBE.GenericCI-Table Service System"
+  },
+  {
+    "Category": "Table service",
+    "Sub-Category L1": "Table Tent, Pucks",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Table Service System"
+  },
+  {
+    "Category": "Table service",
+    "Sub-Category L1": "Table Tent, Pucks",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Table service",
+    "Sub-Category L1": "Table Tent, Pucks",
+    "Sub-Category L2": "finger printing",
+    "Affected CI": "MCDBE.GenericCI-Table Service System"
+  },
+  {
+    "Category": "Tablet",
+    "Sub-Category L1": "Strobbo",
+    "Sub-Category L2": "Hardware",
+    "Affected CI": "MCDBE.GenericCI-Strobbo"
+  },
+  {
+    "Category": "Tablet",
+    "Sub-Category L1": "Strobbo",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Strobbo"
+  },
+  {
+    "Category": "Tablet",
+    "Sub-Category L1": "Takeaway",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Delivery3PartyOrdering"
+  },
+  {
+    "Category": "Tablet",
+    "Sub-Category L1": "Deliveroo",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Delivery3PartyOrdering"
+  },
+  {
+    "Category": "Tablet",
+    "Sub-Category L1": "Uber eats",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-Delivery3PartyOrdering"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-OS"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-VirtualMachine"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-VirtualMachine"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC01",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-VirtualMachine"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Operating System",
+    "Affected CI": "MCDBE.GenericCI-OS"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Connectivity",
+    "Affected CI": "MCDBE.GenericCI-Network"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-VirtualMachine"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-VirtualMachine"
+  },
+  {
+    "Category": "Virtual Machine",
+    "Sub-Category L1": "GSC02",
+    "Sub-Category L2": "Failure",
+    "Affected CI": "MCDBE.GenericCI-VirtualMachine"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "RFM config",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close-error",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Open Close- wrong BD",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Plugins",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Communication Failure",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "SmartUpdate",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Error on screen",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Others",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Configuration",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Production",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  },
+  {
+    "Category": "Waystation",
+    "Sub-Category L1": "NewPOS",
+    "Sub-Category L2": "Backup Production",
+    "Affected CI": "MCDBE.GenericCI-Sesame-v36"
+  }
+]
